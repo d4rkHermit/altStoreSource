@@ -1,0 +1,34 @@
+{
+    "name": "d4rk Hermit's Source",
+    "apps": [
+        {
+            "name": "Aidoku",
+            "bundleIdentifier": "xyz.skitty.Aidoku.aix",
+            "developerName": "Example Developer",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2022-03-16T07:00:00-08:00",
+                    "size": 10000000,
+                    "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.6/Aidoku.ipa"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                ],
+                "privacy": {
+                }
+            }
+        }
+    ],
+    "news": [
+        {
+            "title": "New Feature Announcement",
+            "identifier": "new_feature",
+            "caption": "Introducing a new feature in AltStore!",
+            "date": "2023-03-15"
+        }
+    ]
+}
